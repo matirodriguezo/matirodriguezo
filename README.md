@@ -4,7 +4,7 @@
 
 Soy estudiante de **Ingeniería Civil Informática** en la **Universidad San Sebastián** (Concepción, Chile), con un enfoque estratégico hacia la automatización de flujos de trabajo, el análisis relacional y la ingeniería de datos. 
 
-Cuento con experiencia práctica optimizando procesos de información en entornos industriales (planta CMPC en Bucalemu, Cabrero), donde trabajé levantando indicadores de producción y lidiando con datos reales del negocio. Actualmente enfoco mis proyectos en construir arquitecturas sólidas (ETL) que conecten la operación física con la toma de decisiones, proyectando mi carrera hacia la Ciencia de Datos.
+Cuento con experiencia práctica optimizando procesos de información en entornos industriales (CMPC Aserradero Bucalemu), donde trabajé levantando indicadores de producción y lidiando con datos reales del negocio. Actualmente enfoco mis proyectos en construir arquitecturas sólidas (ETL) que conecten la operación física con la toma de decisiones, proyectando mi carrera hacia la Ciencia de Datos.
 
 ---
 
