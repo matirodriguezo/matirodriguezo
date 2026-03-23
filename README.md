@@ -1,6 +1,6 @@
 # Hola, soy Matías 👋
 
-### Analista de Datos Junior | Futuro Data Engineer
+### | Analista de Datos Junior |
 
 Soy estudiante de **Ingeniería Civil Informática** en la **Universidad San Sebastián** (Concepción, Chile), con un enfoque estratégico hacia la automatización de flujos de trabajo, el análisis relacional y la ingeniería de datos. 
 
@@ -27,9 +27,8 @@ Cuento con experiencia práctica optimizando procesos de información en entorno
 
 ### 🚀 Proyectos Destacados
 
-* 🪵 **ETL Pipeline de Producción Maderera:** Desarrollo de un flujo automatizado en Python para extraer datos crudos de producción desde Excel, calcular métricas de rendimiento porcentual mediante Pandas y cargar los resultados limpios a una base de datos relacional para su posterior análisis agrupado en SQL.
-* 💊 **PillSafer (Agile Inception):** Proyecto de diseño de software e interfaces para una aplicación de dispensador de pastillas inteligente.
-* 🌐 **Desarrollo Web Profesional:** Creación de portal web estructurado para servicios de fonoaudiología clínica.
+* 🪵 **ETL Pipeline de Producción Maderera:** Desarrollo de un flujo automatizado en Python para extraer datos crudos de producción desde Excel, calcular métricas de rendimiento porcentual mediante Pandas y cargar los resultados limpios a una base de datos relacional para su posterior análisis agrupado en SQL. [ETL-Excel---SQL---Python-] (https://github.com/matirodriguezo/ETL-Excel---SQL---Python-.git)
+* 🌐 **Desarrollo Web Profesional:** Creación de portal web estructurado para servicios de fonoaudiología clínica. [agenda-fonoaudiología] (https://github.com/matirodriguezo/agenda-fonoaudiologia.git)
 
 ---
 
