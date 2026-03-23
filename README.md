@@ -1,4 +1,4 @@
-#Hola, soy Matías
+# Hola, soy Matías
 
 ### | Analista de Datos Junior |
 
@@ -25,14 +25,14 @@ Cuento con experiencia práctica optimizando procesos de información en entorno
 
 ---
 
-###Proyectos Destacados
+### Proyectos Destacados
 
 * **ETL Pipeline de Producción Maderera:** Desarrollo de un flujo automatizado en Python para extraer datos crudos de producción desde Excel, calcular métricas de rendimiento porcentual mediante Pandas y cargar los resultados limpios a una base de datos relacional para su posterior análisis agrupado en SQL. [ETL-Excel---SQL---Python-] (https://github.com/matirodriguezo/ETL-Excel---SQL---Python-.git)
 * **Desarrollo Web Profesional:** Creación de portal web estructurado para servicios de fonoaudiología clínica. [agenda-fonoaudiología] (https://github.com/matirodriguezo/agenda-fonoaudiologia.git)
 
 ---
 
-###Contacto
+### Contacto
 
 * **LinkedIn:** [https://www.linkedin.com/in/matirodriguezo/]
 * **Email:** [mati1865as@gmail.com]
