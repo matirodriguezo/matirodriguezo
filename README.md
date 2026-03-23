@@ -1,6 +1,6 @@
-# Hola, soy Matías 👋
+#Hola, soy Matías
 
-### | Analista de Datos Junior |
+###| Analista de Datos Junior |
 
 Soy estudiante de **Ingeniería Civil Informática** en la **Universidad San Sebastián** (Concepción, Chile), con un enfoque estratégico hacia la automatización de flujos de trabajo, el análisis relacional y la ingeniería de datos. 
 
@@ -8,7 +8,7 @@ Cuento con experiencia práctica optimizando procesos de información en entorno
 
 ---
 
-### 🛠️ Stack Tecnológico y Herramientas
+###Stack Tecnológico y Herramientas
 
 **Programación y Bases de Datos:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,14 +25,14 @@ Cuento con experiencia práctica optimizando procesos de información en entorno
 
 ---
 
-### 🚀 Proyectos Destacados
+###Proyectos Destacados
 
-* 🪵 **ETL Pipeline de Producción Maderera:** Desarrollo de un flujo automatizado en Python para extraer datos crudos de producción desde Excel, calcular métricas de rendimiento porcentual mediante Pandas y cargar los resultados limpios a una base de datos relacional para su posterior análisis agrupado en SQL. [ETL-Excel---SQL---Python-] (https://github.com/matirodriguezo/ETL-Excel---SQL---Python-.git)
-* 🌐 **Desarrollo Web Profesional:** Creación de portal web estructurado para servicios de fonoaudiología clínica. [agenda-fonoaudiología] (https://github.com/matirodriguezo/agenda-fonoaudiologia.git)
+* **ETL Pipeline de Producción Maderera:** Desarrollo de un flujo automatizado en Python para extraer datos crudos de producción desde Excel, calcular métricas de rendimiento porcentual mediante Pandas y cargar los resultados limpios a una base de datos relacional para su posterior análisis agrupado en SQL. [ETL-Excel---SQL---Python-] (https://github.com/matirodriguezo/ETL-Excel---SQL---Python-.git)
+* **Desarrollo Web Profesional:** Creación de portal web estructurado para servicios de fonoaudiología clínica. [agenda-fonoaudiología] (https://github.com/matirodriguezo/agenda-fonoaudiologia.git)
 
 ---
 
-### 📫 Conectemos
+###Contacto
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/matirodriguezo/]
-* ✉️ **Email:** [mati1865as@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/matirodriguezo/]
+* **Email:** [mati1865as@gmail.com]
