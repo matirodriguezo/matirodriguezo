@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Matías Rodríguez</h1>
+<h1 align="center">¡Hola! Soy Matías Rodríguez</h1>
 <h3 align="center">🚀 Estudiante de Ingeniería Civil Informática | Analista de Datos Junior</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+##  Sobre Mí
 
-* 🎓 Estudiante de **Ingeniería Civil Informática** en la **Universidad San Sebastián** (Concepción, Chile).
-* 💼 **Experiencia Industrial:** Optimicé procesos de información y levanté indicadores de producción con datos reales del negocio en **CMPC Aserradero Bucalemu**.
-* 🎯 **Mi Enfoque:** Cerrar la brecha entre la operación física y la estrategia mediante la ingeniería de datos, proyectando mi carrera hacia la Ciencia de Datos.
-* 🌱 **Aprendiendo actualmente:** Extracción de datos en ecosistemas **SAP**, modelado Star Schema y lenguaje DAX.
+*  Estudiante de **Ingeniería Civil Informática** en la **Universidad San Sebastián** (Concepción, Chile).
+*  **Experiencia Industrial:** Optimicé procesos de información y levanté indicadores de producción con datos reales del negocio en **CMPC Aserradero Bucalemu**.
+*  **Mi Enfoque:** Cerrar la brecha entre la operación física y la estrategia mediante la ingeniería de datos, proyectando mi carrera hacia la Ciencia de Datos.
+*  **Aprendiendo actualmente:** Extracción de datos en ecosistemas **SAP**, modelado Star Schema y lenguaje DAX.
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 **Programación y Bases de Datos** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,20 +31,20 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🚛 [Mantenimiento Predictivo End-to-End para Logística Forestal](https://github.com/matirodriguezo/Analisis_Logistica_Forestal)
+###  [Mantenimiento Predictivo End-to-End para Logística Forestal](https://github.com/matirodriguezo/Analisis_Logistica_Forestal)
 > Implementación de un ecosistema de datos completo para detectar anomalías mecánicas en maquinaria de transporte. Abarca desde el modelado relacional en PostgreSQL y la generación/análisis exploratorio de telemetría con Python (Pandas), hasta la creación de un dashboard interactivo de alertas críticas en Power BI.
 
-### 🏭 [ETL Pipeline de Producción Maderera](https://github.com/matirodriguezo/ETL-Excel---SQL---Python-)
+###  [ETL Pipeline de Producción Maderera](https://github.com/matirodriguezo/ETL-Excel---SQL---Python-)
 > Desarrollo de un flujo automatizado en Python para extraer datos crudos de producción desde Excel, calcular métricas de rendimiento porcentual mediante Pandas y cargar los resultados limpios a una base de datos relacional para su posterior análisis agrupado en SQL.
 
-### 🌐 [Desarrollo Web Profesional Clínico](https://github.com/matirodriguezo/agenda-fonoaudiologia)
+###  [Desarrollo Web Profesional Clínico](https://github.com/matirodriguezo/agenda-fonoaudiologia)
 > Creación de un portal web estructurado con sistema de agenda para servicios de fonoaudiología clínica.
 
 ---
 
-## 📫 Conectemos
+##  Conectemos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matirodriguezo/" target="_blank">
