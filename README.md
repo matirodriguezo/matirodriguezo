@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=40&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Matías+Rodríguez" alt="¡Hola! Soy Matías Rodríguez" />
 </div>
@@ -50,5 +53,8 @@
 
 ### [Desarrollo Web Profesional Clínico](https://github.com/matirodriguezo/agenda-fonoaudiologia)
 > Creación de un portal web estructurado con sistema de agenda para servicios de fonoaudiología clínica.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 <p
