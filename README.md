@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Matías Rodríguez</h1>
-<h3 align="center">🚀 Estudiante de Ingeniería Civil Informática | Analista de Datos Junior</h3>
+<h3 align="center"> Estudiante de Ingeniería Civil Informática | Analista de Datos Junior</h3>
 
 <p align="center">
   Apasionado por la automatización de flujos de trabajo, el análisis relacional y la construcción de arquitecturas de datos sólidas (ETL) que conecten la operación física con la toma de decisiones.
