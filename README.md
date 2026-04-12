@@ -26,7 +26,7 @@ Cuento con experiencia práctica optimizando procesos de información en entorno
 ---
 
 ### Proyectos Destacados
-
+**Mantenimiento Predictivo End-to-End para Logística Forestal:** Implementación de un ecosistema de datos completo para detectar anomalías mecánicas en maquinaria de transporte. Abarca desde el modelado relacional en PostgreSQL y la generación/análisis exploratorio de telemetría con Python (Pandas), hasta la creación de un dashboard interactivo de alertas críticas en Power BI. [Analisis_Logistica_Forestal](https://github.com/matirodriguezo/Analisis_Logistica_Forestal)
 * **ETL Pipeline de Producción Maderera:** Desarrollo de un flujo automatizado en Python para extraer datos crudos de producción desde Excel, calcular métricas de rendimiento porcentual mediante Pandas y cargar los resultados limpios a una base de datos relacional para su posterior análisis agrupado en SQL. [ETL-Excel---SQL---Python-] (https://github.com/matirodriguezo/ETL-Excel---SQL---Python-.git)
 * **Desarrollo Web Profesional:** Creación de portal web estructurado para servicios de fonoaudiología clínica. [agenda-fonoaudiología] (https://github.com/matirodriguezo/agenda-fonoaudiologia.git)
 
