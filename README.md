@@ -1,20 +1,16 @@
 <div align="center">
-  <h1>¡Hola! Soy Matías Rodríguez</h1>
-  
-  <a href="https://github.com/matirodriguezo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=20&pause=1500&color=3776AB&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+Civil+Informática;Analista+de+Datos+Junior" alt="Typing SVG" />
-  </a>
-  
-  <br><br>
-  
-  <p>
-    Apasionado por la automatización de flujos de trabajo, el análisis relacional y la construcción de arquitecturas de datos sólidas (ETL) que conecten la operación física con la toma de decisiones.
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=40&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Matías+Rodríguez" alt="¡Hola! Soy Matías Rodríguez" />
 </div>
 
-<br>
+<h3 align="center"> Estudiante de Ingeniería Civil Informática | Analista de Datos Junior</h3>
 
----
+<p align="center">
+  Apasionado por la automatización de flujos de trabajo, el análisis relacional y la construcción de arquitecturas de datos sólidas (ETL) que conecten la operación física con la toma de decisiones.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## Sobre Mí
 
@@ -23,37 +19,26 @@
 * **Mi Enfoque:** Cerrar la brecha entre la operación física y la estrategia mediante la ingeniería de datos, proyectando mi carrera hacia la Ciencia de Datos.
 * **Aprendiendo actualmente:** Extracción de datos en ecosistemas **SAP**, modelado Star Schema y lenguaje DAX.
 
-<br>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## Stack Tecnológico
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Programación y Bases de Datos</b></td>
-      <td align="center"><b>Análisis, Procesamiento y Visualización</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"> <br>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <br>
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <br>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <br>
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-      </td>
-    </tr>
-  </table>
-</div>
+**Programación y Bases de Datos** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<br>
+**Análisis, Procesamiento y Visualización** <br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel/Power Query](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## Proyectos Destacados
 
@@ -66,24 +51,4 @@
 ### [Desarrollo Web Profesional Clínico](https://github.com/matirodriguezo/agenda-fonoaudiologia)
 > Creación de un portal web estructurado con sistema de agenda para servicios de fonoaudiología clínica.
 
-<br>
-
----
-
-## Conectemos
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matirodriguezo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mati1865as@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matirodriguezo&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=777777" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matirodriguezo&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=777777" alt="Top Languages" />
-</div>
+<p
