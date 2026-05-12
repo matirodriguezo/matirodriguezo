@@ -24,15 +24,12 @@
 ---
 
 ## 🌐 Portfolio Personal
-
 <div align="center">
-
 <a href="https://portfolio-indol-five-60dd8lctj3.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Ver%20mi%20Portfolio%20Web-%20-1a6bb5?style=for-the-badge&logoColor=white&labelColor=0d1117" height="40"/>
 </a>
-
 <br/><br/>
-
+  
 > 💼 **¿Quieres conocer más sobre mi trabajo?**
 > Visita mi portfolio personal donde encontrarás mis proyectos, experiencia y habilidades en detalle.
 >
